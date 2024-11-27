@@ -1,10 +1,7 @@
-/*
- * Click nbfs://nbhost/SystemFileSystem/Templates/Licenses/license-default.txt to change this license
- * Click nbfs://nbhost/SystemFileSystem/Templates/Classes/Class.java to edit this template
- */
+
 package com.mycompany.sevval_bilgin_project_reversi;
 
-//import static com.mycompany.sevval_bilgin_2221221013_bp2_project.SevvalBilginUsers.scores;
+
 import static com.mycompany.sevval_bilgin_project_reversi.SevvalBilginLogInFrame.entered_users_list;
 import java.awt.Color;
 import java.io.BufferedReader;
